@@ -1,0 +1,26 @@
+{
+  "name": "resume-car",
+  "version": "1.0.0",
+  "description": "Este repositorio lo uso para mantener mi propio CV usando GIT y [jsonresume](https://jsonresume.org/).",
+  "main": "index.js",
+  "scripts": {
+    "resume": "resume"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.13.0",
+    "jsonresume-theme-kendall": "^0.2.0",
+    "resume-cli": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/chrodriguez/chrodriguez.gitlab.io.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://gitlab.com/chrodriguez/chrodriguez.gitlab.io/issues"
+  },
+  "homepage": "https://gitlab.com/chrodriguez/chrodriguez.gitlab.io#readme"
+}
